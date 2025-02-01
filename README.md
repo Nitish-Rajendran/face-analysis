@@ -32,9 +32,9 @@ venv\Scripts\activate     # Windows
 
 
 # Install dependencies
-'''bash
+```bash
 pip install deepface opencv-python torch torchvision facenet-pytorch transformers pillow numpy
-
+```
 
 
 ## Usage
