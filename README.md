@@ -23,7 +23,6 @@ A sophisticated computer vision application that performs real-time face detecti
 
 ## Installation
 Note that this project may contain files which requires potentially high computational power to run. Hence it is recommended to run it on a virtual environment
-
 ```bash
 # Create virtual environment (recommended)
 python -m venv venv
@@ -33,8 +32,9 @@ venv\Scripts\activate     # Windows
 
 
 # Install dependencies
+'''bash
 pip install deepface opencv-python torch torchvision facenet-pytorch transformers pillow numpy
-```
+
 
 
 ## Usage
